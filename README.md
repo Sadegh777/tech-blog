@@ -1,7 +1,5 @@
 # Tech Blog
 
-This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. This site completely is built from scratch and deployed to Heroku. This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sadegh777/tech_blog)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sadegh777/tech_blog)  ![GitHub watchers](https://img.shields.io/github/watchers/Sadegh777/tech_blog?label=Watch&style=social)  ![GitHub top language](https://img.shields.io/github/languages/top/Sadegh777/tech_blog)  ![GitHub license](https://img.shields.io/badge/license-MIT-blueyellow) <br> 
 ## User Story
 As developer who writes about tech, user wants a CMS-style blog site, so that they can publish articles, blog posts, and their thoughts and opinions.
@@ -12,8 +10,7 @@ As developer who writes about tech, user wants a CMS-style blog site, so that th
 1. [Homepage Screenshot](#Homepage-Screenshot)
 1. [Installation](#Installation)
 1. [Contribution Guidelines](#Contribution-Guidelines)
-1. [Project Team](#Project-Team)
-1. [Questions](#Questions)
+
 
 ## About The Project
 Given a CMS-style blog site: 
@@ -69,15 +66,6 @@ DB_PW='password'
 - <a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a>
 
 ## Contribution Guidelines:
-```  
-Feel free to contribute to this repo by creating issues or sending an email to sepid.ayani@gmail.com
-```
 
-## Questions
-<details>
-    <summary>Contact</summary>
-    sepid.ayani@gmail.com
-</details>
 
-## Project Team
 [Sadegh.M](https://github.com/Sadegh777) <br>
