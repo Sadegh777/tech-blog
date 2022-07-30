@@ -1,6 +1,6 @@
 # Tech Blog
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Sadegh777/tech_blog)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sadegh777/tech_blog)  ![GitHub watchers](https://img.shields.io/github/watchers/Sadegh777/tech_blog?label=Watch&style=social)  ![GitHub top language](https://img.shields.io/github/languages/top/Sadegh777/tech_blog)  ![GitHub license](https://img.shields.io/badge/license-MIT-blueyellow) <br> 
+
 ## User Story
 As developer who writes about tech, user wants a CMS-style blog site, so that they can publish articles, blog posts, and their thoughts and opinions.
 
